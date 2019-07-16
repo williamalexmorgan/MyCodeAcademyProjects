@@ -6,5 +6,17 @@ My name is Alex and I am a ambitious web developer. I am currently working throu
 
 ### HTML5 Demonstrations
 
-  1. Fashion Blog
-  
+  1. *Fashion Blog*
+      This blog demostrates HTML5 basics of code
+      
+        WebDevelopment/FashionBlogExample.html
+      
+  2. *Wine Festival Schedule*
+      Demonstrates use of HTML5 tables
+      
+        WebDevelopment/WineFestival/WineFestivalScheduleExample.html
+        
+   3. *Form-a-Story*
+        Demonstrates use of HTML5 forms & form validation
+        
+          WebDevelopment/Form-a-Story.html
