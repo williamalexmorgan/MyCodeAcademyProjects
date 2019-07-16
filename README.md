@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to My Portfolio
 
-You can use the [editor on GitHub](https://github.com/williamalexmorgan/MyCodeAcademyProjects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is William "Alex" Morgan and I am a ambitious web developer. I am currently working through projects with Code Academy, and currently enrolled in the Web developer tract. Below is a demonstration of the knowledge I have acquired through Code Academy, through the final projects in each section.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
