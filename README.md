@@ -9,14 +9,17 @@ My name is Alex and I am a ambitious web developer. I am currently working throu
   1. *Fashion Blog*
       This blog demostrates HTML5 basics of code
       
-       http://htmlpreview.github.io/williamalexmorgan/MyCodeAcademyProjects/WebDevelopment/FashionBlogExample.html
+       https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/FashionBlogExample.html
       
   2. *Wine Festival Schedule*
       Demonstrates use of HTML5 tables
       
-        https://github.com/williamalexmorgan/MyCodeAcademyProjects/WebDevelopment/WineFestival/WineFestivalScheduleExample.html
+        https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/WineFestival/WineFestivalScheduleExample.html
         
    3. *Form-a-Story*
         Demonstrates use of HTML5 forms & form validation
         
-          https://github.com/williamalexmorgan/MyCodeAcademyProjects/WebDevelopment/Form-a-story.html
+          https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/Form-a-story.html
+          
+          
+*I am constantly updating this page since this is a ongoing course
