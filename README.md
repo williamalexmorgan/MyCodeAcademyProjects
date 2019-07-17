@@ -26,11 +26,11 @@ My name is Alex and I am a ambitious web developer. I am currently working throu
   1. *Healthy Recipe*
       Demonstrates the basic styles that CSS can implement with HTML5
       
-        [Healthy Recipe](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/CSS/Healthy Recipe/Recipe.html)
+      [Healthy Recipe](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/CSS/HealthyRecipe/Recipe.html)
         
   2.*Portfolio*
       Demonstrates the Visual Rules of CSS
       
-      [Portfolio Example](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/CSS/Portfolio/Portfolio.html)
-        
-I am constantly updating this page since this is a ongoing course
+   [Portfolio Example](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/CSS/Portfolio/Portfolio.html)  
+   
+*I am constantly updating this page since this is a ongoing course, so please check back later
