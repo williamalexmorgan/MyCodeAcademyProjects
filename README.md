@@ -9,16 +9,28 @@ My name is Alex and I am a ambitious web developer. I am currently working throu
   1. *Fashion Blog*
       This blog demostrates HTML5 basics of code
       
-       [Fashion Blog Example](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/FashionBlogExample.html)
+       [Fashion Blog Example](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/HTML/FashionBlogExample.html)
       
   2. *Wine Festival Schedule*
       Demonstrates use of HTML5 tables
       
-        [Wine Festival Schedule](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/WineFestival/WineFestivalScheduleExample.html)
+        [Wine Festival Schedule](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/HTML/WineFestival/WineFestivalScheduleExample.html)
         
    3. *Form-a-Story*
         Demonstrates use of HTML5 forms and form validation
  
-         [Form-a-Story](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/Form-a-Story.html)
-          
-*I am constantly updating this page since this is a ongoing course
+         [Form-a-Story](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/HTML/Form-a-Story/Form-a-Story.html)
+         
+### CSS Demonstrations
+
+  1. *Healthy Recipe*
+      Demonstrates the basic styles that CSS can implement with HTML5
+      
+        [Healthy Recipe](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/CSS/Healthy Recipe/Recipe.html)
+        
+  2.*Portfolio*
+      Demonstrates the Visual Rules of CSS
+      
+      [Portfolio Example](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/CSS/Portfolio/Portfolio.html)
+        
+I am constantly updating this page since this is a ongoing course
