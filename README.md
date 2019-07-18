@@ -37,8 +37,8 @@ My name is Alex and I am a ambitious web developer. I am currently working throu
       This was set up like a job interview. The bottom image was given, and the following demonstration was produced.
       
       <p align="center">
-        <img src="WebDevelopment/CSS/Arts&Crafts/dasmotos-arts_redline.jpg" width="325" height="415"/>
-      
-        [Arts & Crafts Example](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/CSS/Arts&Crafts/Arts&Crafts.html)</p>
+        <img src="WebDevelopment/CSS/Arts&Crafts/dasmotos-arts_redline.jpg" width="325" height="415"/> </p>
+  
+        [Arts & Crafts Example](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/CSS/Arts&Crafts/Arts&Crafts.html) 
    
 *I am constantly updating this page since this is a ongoing course, so please check back later
