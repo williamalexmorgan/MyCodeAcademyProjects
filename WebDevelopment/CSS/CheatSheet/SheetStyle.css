@@ -1,0 +1,23 @@
+body {
+    font-family: Papyrus;
+    background-image:url("background.png");
+    color: white;
+    font-size: 20px;
+  }
+
+h1 {
+    background-color: blue;
+    font-family: "Brush Script MT";
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+h3 {
+    color: yellow;
+    font-weight: bold;
+}
+
+.bold {
+    color: pink;
+}
