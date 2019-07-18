@@ -42,3 +42,7 @@ My name is Alex and I am a ambitious web developer. I am currently working throu
         [Arts & Crafts Example](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/CSS/Arts&Crafts/Arts&Crafts.html) 
    
 *I am constantly updating this page since this is a ongoing course, so please check back later
+## Software Development
+### Coming Soon!
+## Data Science
+### Coming Soon!
