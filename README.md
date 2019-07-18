@@ -36,7 +36,8 @@ My name is Alex and I am a ambitious web developer. I am currently working throu
   3. *Arts & Crafts*
       This was set up like a job interview. The bottom image was given, and the following demonstration was produced.
       
-        ![Image](WebDevelopment/CSS/Arts&Crafts/dasmotos-arts_redline.jpg)
+      <p align="center">
+        <img src="WebDevelopment/CSS/Arts&Crafts/dasmotos-arts_redline.jpg" width="325" height="415"/></p>
       
         [Arts & Crafts Example](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/CSS/Arts&Crafts/Arts&Crafts.html)
    
