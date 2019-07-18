@@ -32,5 +32,12 @@ My name is Alex and I am a ambitious web developer. I am currently working throu
       Demonstrates the Visual Rules of CSS
       
         [Portfolio Example](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/CSS/Portfolio/Portfolio.html)
+        
+  3. *Arts & Crafts*
+      This was set up like a job interview. The bottom image was given, and the following demonstration was produced.
+      
+        ![Image](WebDevelopment/CSS/Arts&Crafts/dasmotos-arts_redline.jpg)
+      
+        [Arts & Crafts Example](https://williamalexmorgan.github.io/MyCodeAcademyProjects/WebDevelopment/CSS/Arts&Crafts/Arts&Crafts.html)
    
 *I am constantly updating this page since this is a ongoing course, so please check back later
